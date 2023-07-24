@@ -1,0 +1,74 @@
+[
+    {
+      "name": "Cake Shop",
+      "description": "A website built for a cake shop to display their confectionary and allow customers make orders",
+      "image": "Images/cake-shop.png",
+      "stack": "Front end",
+      "year": 2022,
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "link": "https://leslieaine.github.io/cake-shop/",
+      "github": "https://github.com/LeslieAine/cake-shop",
+      "content1": "",
+      "content2": ""
+    },
+    {
+      "name": "TV Show App",
+      "description": "A dynamic website displaying information about TV shows that also allows users to like and comment on tv series..",
+      "image": "Images/tv-show.png",
+      "stack": "Front end",
+      "year": 2023,
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "link": "https://tv-shows-kurf.onrender.com",
+      "github": "https://github.com/LeslieAine/tv-webapp",
+      "content1": "A dynamic website displaying information about TV shows.",
+      "content2": ""
+    },
+    {
+      "name": "Space Travelers Hub",
+      "description": "A web application that fetches data from SpaceX API and display rocket, mission and dragon details.",
+      "image": "Images/Space_travelers_hub.png",
+      "stack": "Front end",
+      "year": 2023,
+      "technologies": ["HTML", "CSS", "React","Redux"],
+      "link": "https://travelers-hub-jgey.onrender.com",
+      "github": "https://github.com/LeslieAine/travelers-hub",
+      "content1": "",
+      "content2":""
+    },
+    {
+      "name": "Pet Shop",
+      "description": "A website for a petcare shop that allows clients read about the shop, blogs, find services and make appointments",
+      "image": "Images/petcare.png",
+      "stack": "Front end",
+      "year": 2023,
+      "technologies": ["HTML", "CSS", "JavaScript", "php"],
+      "link": "LeslieAine.github.io/petcare-shop",
+      "github": "https://github.com/LeslieAine/petcare-shop",
+      "content1": " In this project you can book services, as well as shop for pet products",
+      "content2": ""
+    },
+    {
+      "name": "Budget Buddy",
+      "description": "A web application to create categories, and track expenses for each category.",
+      "image": "Images/Budget_buddy.png",
+      "stack": "Full Stack",
+      "year": 2023,
+      "technologies": ["HTML", "CSS", "Ruby on Rails","PostgreSQL"],
+      "link": "https://budget-app-4a1i.onrender.com/",
+      "github": "https://github.com/LeslieAine/budget-app",
+      "content1": "",
+      "content2":""
+    },
+    {
+      "name": "House Haven",
+      "description": "A web application to add, delete and reserve houses.",
+      "image": "Images/House_rental_app.png",
+      "stack": "Full Stack",
+      "year": 2023,
+      "technologies": ["React", "Redux", "Ruby on Rails","PostgreSQL"],
+      "link": "https://house-rental-project.netlify.app/",
+      "github": "https://github.com/LeslieAine/house-haven",
+      "content1": "",
+      "content2":""
+    }
+  ]
