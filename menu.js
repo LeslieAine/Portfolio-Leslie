@@ -82,7 +82,7 @@ fetch('projects.json')
 // Download Resume //
 function downloadResume() {
   const link = document.createElement('a');
-  link.href = 'https://drive.google.com/uc?export=download&id=1sJY1Ox-KjeeDJ1TuZ-i7l-d89lMTR99Uw2U2AQzXhUE';
+  link.href = 'https://drive.google.com/uc?export=download&id=1o8IZAr0VaaFYeuMqSyLnY4f7Q5S0Hw_i';
   link.download = 'Leslie_Aine_Resume.pdf';
 
   // Trigger the download by programmatically clicking the link
